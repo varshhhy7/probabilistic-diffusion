@@ -176,21 +176,6 @@ Steps:
 
 ***
 
-## Citation
-
-If this implementation or notebook helps you in a project or paper, consider citing the repository:
-
-```text
-@misc{probabilistic_diffusion,
-  author       = {Varshhhy},
-  title        = {Probabilistic Diffusion: A from-scratch DDPM implementation},
-  year         = {2025},
-  howpublished = {\url{https://github.com/varshhhy7/probabilistic-diffusion}}
-}
-```
-
-***
-
 If you share a bit about the dataset and exact architecture you ended up using inside the notebook, this README can be refined further to describe those specifics.
 
 [1](https://github.com/varshhhy7/probabilistic-diffusion)
