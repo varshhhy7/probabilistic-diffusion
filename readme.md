@@ -335,6 +335,4 @@ Have questions or ideas? Feel free to:
 
 **Last Updated:** January 2026
 
-**Author:** [varshhhy7](https://github.com/varshhhy7)
-
 If you found this helpful, consider leaving a ⭐ on GitHub!
